@@ -67,7 +67,7 @@ print(t.animal_attribute())
 
 #Question 6
 '''output is :
-A B'''
+A B AB'''
 
 #Question 7
 class shape:
